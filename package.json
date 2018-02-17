@@ -1,0 +1,23 @@
+{
+  "name": "hangman_command",
+  "version": "1.0.0",
+  "main": "hang.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canjoyner/Hangman-Command.git"
+  },
+  "bugs": {
+    "url": "https://github.com/canjoyner/Hangman-Command/issues"
+  },
+  "homepage": "https://github.com/canjoyner/Hangman-Command#readme",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
