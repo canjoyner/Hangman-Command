@@ -8,8 +8,9 @@ var Letters = require("./letters.js")
 // var rand = Math.floor(Math.random() * i);
 
 
-var Words = function(word){
-	This.word=[];
+var Words = function(word,blanks){
+	this.word=[];
+	this.blanks=[];
 	// this.letters= function(){
 	// 	for (var i = 0; i < numBlanks; i++) {
  //    blanksAndSuccesses.push("_");
